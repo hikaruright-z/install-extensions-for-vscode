@@ -44,7 +44,7 @@ code --install-extension DavidAnson.vscode-markdownlint --force
 code --install-extension yzane.markdown-pdf --force
 
 # HTML
-code --install-extension abusaidm.html-snippets --force
+# code --install-extension abusaidm.html-snippets --force
 code --install-extension mkaufman.HTMLHint --force
 code --install-extension Zignd.html-css-class-completion --force
 code --install-extension ecmel.vscode-html-css --force
